@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_sub_flow_instance">
+    <sys_hub_sub_flow_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="Request Something">d766b2c5dbd0b300f8472b8705961986</flow>
+        <inputs/>
+        <inputs/>
+        <order>5</order>
+        <parent_ui_id/>
+        <subflow display_value="Check dummy employee exist">481f84f1db18f300f8472b8705961967</subflow>
+        <sys_class_name>sys_hub_sub_flow_instance</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-20 12:41:43</sys_created_on>
+        <sys_id>8cef0035db18f300f8472b87059619ab</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+        <sys_update_name>sys_hub_sub_flow_instance_8cef0035db18f300f8472b87059619ab</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-03-20 15:55:09</sys_updated_on>
+        <ui_id>bde1f3cb-a452-4256-b638-56af48e7735a</ui_id>
+    </sys_hub_sub_flow_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=8cef0035db18f300f8472b87059619ab"/>
+    <sys_element_mapping action="delete_multiple" query="id=8cef0035db18f300f8472b87059619ab"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>employe_name</field>
+        <id>8cef0035db18f300f8472b87059619ab</id>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-20 12:41:43</sys_created_on>
+        <sys_id>04ef0035db18f300f8472b87059619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-20 12:41:43</sys_updated_on>
+        <table>var__m_sys_hub_flow_input_481f84f1db18f300f8472b8705961967</table>
+        <value>{{b3d0e301-4157-4371-b7c9-6210534720cf.what_s_your_name}}</value>
+    </sys_element_mapping>
+</record_update>

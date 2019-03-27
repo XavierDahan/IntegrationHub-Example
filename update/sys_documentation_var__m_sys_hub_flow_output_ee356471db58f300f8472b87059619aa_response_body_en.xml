@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="response_body" label="response body" language="en" table="var__m_sys_hub_flow_output_ee356471db58f300f8472b87059619aa">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>response_body</element>
+            <help/>
+            <hint/>
+            <label>response body</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_output_ee356471db58f300f8472b87059619aa</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>xavier.dahan</sys_created_by>
+            <sys_created_on>2019-03-20 14:15:01</sys_created_on>
+            <sys_id>6e352871db58f300f8472b87059619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>response body</sys_name>
+            <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_ee356471db58f300f8472b87059619aa_response_body_en</sys_update_name>
+            <sys_updated_by>xavier.dahan</sys_updated_by>
+            <sys_updated_on>2019-03-20 14:15:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

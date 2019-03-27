@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">69cef24ddbd0b300f8472b87059619c0</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="Request Something">968ab289dbd0b300f8472b8705961931</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-20 15:54:24</sys_created_on>
+        <sys_id>2efb38fddb58f300f8472b8705961983</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_2efb38fddb58f300f8472b8705961983</sys_update_name>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-20 15:54:25</sys_updated_on>
+        <ui_id>5e5cd9cc-9916-4fe1-b3e7-329126b0724c</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=2efb38fddb58f300f8472b8705961983"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>2efb38fddb58f300f8472b8705961983</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-20 15:54:24</sys_created_on>
+        <sys_id>aafb38fddb58f300f8472b8705961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-20 15:54:24</sys_updated_on>
+        <value>Rejected</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>2efb38fddb58f300f8472b8705961983</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-20 15:54:24</sys_created_on>
+        <sys_id>e6fb38fddb58f300f8472b8705961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-20 15:54:24</sys_updated_on>
+        <value>{{45435ed6-58a8-4f9c-8f1b-8a18c0826684.approval_state}}!=approved</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+</record_update>

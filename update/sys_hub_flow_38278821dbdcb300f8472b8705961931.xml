@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>test_actions_for_integrationhub_simple_example</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Test Actions for IntegrationHub Simple Example</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-19 17:25:04</sys_created_on>
+        <sys_id>38278821dbdcb300f8472b8705961931</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test Actions for IntegrationHub Simple Example</sys_name>
+        <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+        <sys_update_name>sys_hub_flow_38278821dbdcb300f8472b8705961931</sys_update_name>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-19 17:25:17</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=38278821dbdcb300f8472b8705961931"/>
+    <sys_variable_value action="delete_multiple" query="document_key=38278821dbdcb300f8472b8705961931"/>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>This flow is associated with the maintain item that request something</description>
+        <internal_name>request_something</internal_name>
+        <label_cache>[{"name":"8f4e6646-3eac-45bf-8e10-d48247ffef88.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"8f4e6646-3eac-45bf-8e10-d48247ffef88.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"{{static.f16c798ddbdc7300f8472b87059619fd}}","label":"Xavier Dahan","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"45435ed6-58a8-4f9c-8f1b-8a18c0826684.approval_state","label":"2➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"b3d0e301-4157-4371-b7c9-6210534720cf.what_s_your_salary","label":"1➛what_s_your_salary","reference":"","reference_display":"what_s_your_salary","type":"string","base_type":"string"},{"name":"b3d0e301-4157-4371-b7c9-6210534720cf.what_s_your_name","label":"1➛what_s_your_name","reference":"","reference_display":"what_s_your_name","type":"string","base_type":"string"},{"name":"Service Catalog_1.request_item","label":"Trigger➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference"}]</label_cache>
+        <master>true</master>
+        <name>Request Something</name>
+        <outputs/>
+        <parent_flow display_value="Request Something">d766b2c5dbd0b300f8472b8705961986</parent_flow>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:11:54</sys_created_on>
+        <sys_id>968ab289dbd0b300f8472b8705961931</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Something</sys_name>
+        <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_968ab289dbd0b300f8472b8705961931</sys_update_name>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:11:54</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=968ab289dbd0b300f8472b8705961931"/>
+    <sys_variable_value action="delete_multiple" query="document_key=968ab289dbd0b300f8472b8705961931"/>
+</record_update>

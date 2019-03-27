@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Get Catalog Variables">330ba3abc31013002841b63b12d3aee8</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>330ba3abc31013002841b63b12d3aee8</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Request Something">d766b2c5dbd0b300f8472b8705961986</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:09:20</sys_created_on>
+        <sys_id>a8f93e49dbd0b300f8472b87059619c7</sys_id>
+        <sys_mod_count>34</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+        <sys_update_name>sys_hub_action_instance_a8f93e49dbd0b300f8472b87059619c7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-03-20 15:55:08</sys_updated_on>
+        <ui_id>b3d0e301-4157-4371-b7c9-6210534720cf</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=a8f93e49dbd0b300f8472b87059619c7"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>a8f93e49dbd0b300f8472b87059619c7</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:11:53</sys_created_on>
+        <sys_id>028ab289dbd0b300f8472b870596191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:11:53</sys_updated_on>
+        <value>6958f609dbd0b300f8472b870596196d</value>
+        <variable display_value="">bb0ba3abc31013002841b63b12d3aef1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>a8f93e49dbd0b300f8472b87059619c7</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:11:53</sys_created_on>
+        <sys_id>4e8ab289dbd0b300f8472b8705961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:11:53</sys_updated_on>
+        <value>5ad83249dbd0b300f8472b87059619ab,6239f249dbd0b300f8472b8705961979</value>
+        <variable display_value="">7b0ba3abc31013002841b63b12d3aef7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>a8f93e49dbd0b300f8472b87059619c7</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:09:20</sys_created_on>
+        <sys_id>74f93e49dbd0b300f8472b87059619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:09:20</sys_updated_on>
+        <value>6958f609dbd0b300f8472b870596196d</value>
+        <variable display_value="">9de09916c31332002841b63b12d3ae1b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>a8f93e49dbd0b300f8472b87059619c7</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:09:20</sys_created_on>
+        <sys_id>bcf93e49dbd0b300f8472b87059619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:09:20</sys_updated_on>
+        <value>5ad83249dbd0b300f8472b87059619ab,6239f249dbd0b300f8472b8705961979</value>
+        <variable display_value="">7de09916c31332002841b63b12d3ae1b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=a8f93e49dbd0b300f8472b87059619c7"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>catalog_variables</field>
+        <id>a8f93e49dbd0b300f8472b87059619c7</id>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:09:20</sys_created_on>
+        <sys_id>b0f93e49dbd0b300f8472b87059619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:09:20</sys_updated_on>
+        <table>var__m_sys_hub_action_input_22f0b88cc3c632002841b63b12d3aeff</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>catalog_variables</field>
+        <id>a8f93e49dbd0b300f8472b87059619c7</id>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:11:53</sys_created_on>
+        <sys_id>468ab289dbd0b300f8472b8705961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:11:53</sys_updated_on>
+        <table>var__m_sys_hub_action_input_330ba3abc31013002841b63b12d3aee8</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>requested_item</field>
+        <id>a8f93e49dbd0b300f8472b87059619c7</id>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:09:20</sys_created_on>
+        <sys_id>3cf93e49dbd0b300f8472b87059619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:09:20</sys_updated_on>
+        <table>var__m_sys_hub_action_input_22f0b88cc3c632002841b63b12d3aeff</table>
+        <value>{{Service Catalog_1.request_item}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>requested_item</field>
+        <id>a8f93e49dbd0b300f8472b87059619c7</id>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:11:53</sys_created_on>
+        <sys_id>ca8ab289dbd0b300f8472b8705961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:11:53</sys_updated_on>
+        <table>var__m_sys_hub_action_input_330ba3abc31013002841b63b12d3aee8</table>
+        <value>{{Service Catalog_1.request_item}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>template_catalog_item</field>
+        <id>a8f93e49dbd0b300f8472b87059619c7</id>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:09:20</sys_created_on>
+        <sys_id>78f93e49dbd0b300f8472b87059619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:09:20</sys_updated_on>
+        <table>var__m_sys_hub_action_input_22f0b88cc3c632002841b63b12d3aeff</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>template_catalog_item</field>
+        <id>a8f93e49dbd0b300f8472b87059619c7</id>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-18 17:11:53</sys_created_on>
+        <sys_id>0a8ab289dbd0b300f8472b8705961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-18 17:11:53</sys_updated_on>
+        <table>var__m_sys_hub_action_input_330ba3abc31013002841b63b12d3aee8</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

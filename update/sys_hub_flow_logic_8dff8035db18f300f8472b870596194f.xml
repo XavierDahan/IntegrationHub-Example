@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">7aaf4cf1db18f300f8472b8705961963</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="Check dummy employee exist">481f84f1db18f300f8472b8705961967</flow>
+        <inputs/>
+        <logic_definition display_value="Assign Subflow Outputs">df4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>3</order>
+        <outputs_assigned>found</outputs_assigned>
+        <outputs_to_assign/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-20 12:42:04</sys_created_on>
+        <sys_id>8dff8035db18f300f8472b870596194f</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_8dff8035db18f300f8472b870596194f</sys_update_name>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-21 10:30:11</sys_updated_on>
+        <ui_id>f07f8292-8902-4920-8595-7a2d44006757</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=8dff8035db18f300f8472b870596194f"/>
+    <sys_element_mapping action="delete_multiple" query="id=8dff8035db18f300f8472b870596194f"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>found</field>
+        <id>8dff8035db18f300f8472b870596194f</id>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-20 12:42:04</sys_created_on>
+        <sys_id>55ff8035db18f300f8472b8705961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-20 12:42:04</sys_updated_on>
+        <table>var__m_sys_hub_flow_output_481f84f1db18f300f8472b8705961967</table>
+        <value>{{00317ea9-d5a1-414e-823b-f7cbea4318be.found}}</value>
+    </sys_element_mapping>
+</record_update>

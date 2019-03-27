@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_subflow_plan">
+    <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
+        <plan>com.snc.process_flow.engine.ProcessPlan@4863ad</plan>
+        <plan_id display_value="Check dummy employee exist">0bc7ab29db94f300f8472b87059619d3</plan_id>
+        <snapshot>481f84f1db18f300f8472b8705961967</snapshot>
+        <sys_class_name>sys_flow_subflow_plan</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-20 12:38:11</sys_created_on>
+        <sys_id>d41f84f1db18f300f8472b87059619ac</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>0bc7ab29db94f300f8472b87059619d3</sys_name>
+        <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+        <sys_update_name>sys_flow_subflow_plan_d41f84f1db18f300f8472b87059619ac</sys_update_name>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-21 10:30:12</sys_updated_on>
+    </sys_flow_subflow_plan>
+</record_update>

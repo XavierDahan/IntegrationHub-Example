@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>608d700adbd03700f8472b87059619f5</id>
+        <name>Check dummy employee exist</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-21 10:39:34</sys_created_on>
+        <sys_id>288d700adbd03700f8472b87059619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check dummy employee exist</sys_name>
+        <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_288d700adbd03700f8472b87059619f5</sys_update_name>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-21 10:39:34</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

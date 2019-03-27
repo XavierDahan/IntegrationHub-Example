@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="json_input" label="JSON input" language="en" table="var__m_sys_hub_action_input_420befa9db94f300f8472b8705961951">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>json_input</element>
+            <help/>
+            <hint/>
+            <label>JSON input</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_420befa9db94f300f8472b8705961951</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>xavier.dahan</sys_created_by>
+            <sys_created_on>2019-03-20 10:00:45</sys_created_on>
+            <sys_id>da0befa9db94f300f8472b8705961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>JSON input</sys_name>
+            <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_420befa9db94f300f8472b8705961951_json_input_en</sys_update_name>
+            <sys_updated_by>xavier.dahan</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:00:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

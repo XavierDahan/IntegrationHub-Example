@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_stage">
+    <sys_hub_flow_stage action="INSERT_OR_UPDATE">
+        <always_show>true</always_show>
+        <ancestor_component_id/>
+        <ancestor_stage_id/>
+        <component_indexes/>
+        <duration>1970-01-02 00:00:00</duration>
+        <flow display_value="Request Something">968ab289dbd0b300f8472b8705961931</flow>
+        <label>Approval</label>
+        <order>0</order>
+        <stage_id>bb2bfead-88ee-4d0a-9c31-803889cab2c4</stage_id>
+        <states>{"pending":"Not Yet Requested","inprogress":"Waiting for Approval","skipped":"Skipped","complete":"Approved","error":"Rejected"}</states>
+        <sys_class_name>sys_hub_flow_stage</sys_class_name>
+        <sys_created_by>xavier.dahan</sys_created_by>
+        <sys_created_on>2019-03-20 15:54:24</sys_created_on>
+        <sys_id>e6fb38fddb58f300f8472b87059619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval</sys_name>
+        <sys_package display_value="IntegrationHub Simple Example" source="x_snc_integrationh">3436fa85dbd0b300f8472b8705961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IntegrationHub Simple Example">3436fa85dbd0b300f8472b8705961935</sys_scope>
+        <sys_update_name>sys_hub_flow_stage_e6fb38fddb58f300f8472b87059619a9</sys_update_name>
+        <sys_updated_by>xavier.dahan</sys_updated_by>
+        <sys_updated_on>2019-03-20 15:54:24</sys_updated_on>
+        <type>standard</type>
+        <value/>
+    </sys_hub_flow_stage>
+</record_update>
